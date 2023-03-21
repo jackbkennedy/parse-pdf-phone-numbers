@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+pdf2image
+pytesseract
+phonenumbers
+python-multipart
