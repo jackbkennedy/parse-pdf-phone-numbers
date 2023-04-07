@@ -1,0 +1,8 @@
+# Render YAML configuration file
+# https://render.com/docs/yaml-specification
+
+services:
+  - type: web
+    name: pdf-phone-number-extractor
+    env: docker
+    branch: main
