@@ -1,5 +1,5 @@
 # Render YAML configuration file
-# https://render.com/docs/yaml-specification
+# https://render.com/docs/infrastructure-as-code
 
 services:
   - type: web
