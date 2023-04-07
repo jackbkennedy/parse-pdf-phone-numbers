@@ -1,4 +1,4 @@
-# PDF Phone Number Extractor**
+# PDF Phone Number Extractor
 
 This is a Python application that extracts phone numbers from a PDF file uploaded by a user. The application uses OCR (Optical Character Recognition) to extract text from images of each page in the PDF file, and then uses the Phonenumbers library to find and validate phone numbers in the extracted text.
 
